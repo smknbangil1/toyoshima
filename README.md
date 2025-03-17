@@ -14,7 +14,7 @@ Akses control panel melalui link berikut:
 ## 2. Membuat Akun Email
 1. Masuk ke menu **Home**.
 2. Klik **Mail Server 7.0.4**.
-3. Pilih **User** untuk menambah akun email. Lokasi tombolnya ada sisi kanan baris domain
+3. Pilih **User** untuk menambah akun email. Lokasi tombolnya ada di sisi kanan baris domain
 4. Jika diperlukan, hapus akun email pengujian yang telah tersedia.
 
 ## 3. Akses Email via Web Browser
