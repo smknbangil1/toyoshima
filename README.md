@@ -8,8 +8,8 @@ Akses control panel melalui link berikut:
 
 [**Control Panel**](https://202.154.190.102:28389/Lcp2025)
 
-- **Username:** toyoshima  
-- **Password:** M3mb4ngunM41L  
+- **Username:** tanyain saya via WA 
+- **Password:** tanyain saya via WA mas 
 
 ## 2. Membuat Akun Email
 1. Masuk ke menu **Home**.
