@@ -40,10 +40,10 @@ Untuk mengatur email di **Microsoft Outlook** atau **Mozilla Thunderbird** pada 
 - **IMAP** lebih fleksibel karena menyimpan email di server, memungkinkan sinkronisasi di banyak perangkat.
 
 ### **Kapan Menggunakan Port SMTP yang Berbeda?**
-- **Port 25:** Digunakan untuk komunikasi antar-server, sering diblokir oleh ISP.
+- **Port 25:** Port Standar SMTP.
 - **Port 465:** Digunakan untuk koneksi terenkripsi dengan SSL.
-- **Port 587:** Disarankan untuk pengiriman email dengan STARTTLS.
+- **Port 587:** Alternatif, disarankan untuk pengiriman email dengan STARTTLS.
 
 ---
-**Untuk bantuan konfigurasi lebih lanjut, silakan hubungi WA: +62 822-3348-3221.**
+**Untuk bantuan lebih lanjut, silakan hubungi WA: +62 822-3348-3221.**
 
